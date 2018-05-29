@@ -23,3 +23,4 @@ def on_board(int)
     else 
       return false
     end
+end
